@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "NOWON JUMP 이용 안내",
+  "short_name": "NOWON JUMP",
+  "lang": "ko",
+  "start_url": "./?source=homescreen",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#10213a",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
